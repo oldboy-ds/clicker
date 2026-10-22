@@ -1,0 +1,4 @@
+# Run log (created on each use)
+click_log.txt
+__pycache__/
+*.pyc
